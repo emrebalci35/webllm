@@ -126,14 +126,3 @@ npm install
 ## 📄 Lisans
 
 MIT License - Özgürce kullanabilirsiniz!
-
-## 🙏 Katkıda Bulunanlar
-
-- [WebLLM](https://webllm.mlc.ai/) ekibine teşekkürler
-- [Llama](https://llama.meta.com/) modeli için Meta'ya teşekkürler
-
----
-
-**⭐ Beğendiyseniz yıldız atmayı unutmayın!**
-
-*Bu proje eğitim amaçlıdır. Production kullanımı öncesi ek optimizasyonlar önerilir.*
